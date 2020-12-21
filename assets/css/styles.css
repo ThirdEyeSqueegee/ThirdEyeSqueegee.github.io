@@ -46,6 +46,7 @@ h5 {
 
 #card {
   max-width: 23rem;
+  height: 21rem;
   background-color: #0d1117;
   border-radius: 15px;
   border: 1px solid #30363d;
