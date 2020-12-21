@@ -1,0 +1,58 @@
+body {
+  background-color: #06090f;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+  color: #8b949e;
+}
+
+h5 {
+  font-family: "Open Sans", sans-serif;
+  color: #8b949e;
+}
+
+.navbar {
+  background-color: #161b22;
+}
+
+.navbar-brand {
+  font-family: "Fira Code", monospace;
+}
+
+.flex-row {
+  width: 250px;
+}
+
+.img-fluid {
+  border-radius: 50%;
+}
+
+#element {
+  font-family: "Fira Code", monospace;
+  color: #c9d1d9;
+}
+
+#jumbotron {
+  max-width: 1169px;
+  background-color: #0d1117;
+  border-radius: 15px;
+  border: 1px solid #30363d;
+}
+
+#cards {
+  max-width: 1200px;
+}
+
+#card {
+  max-width: 23rem;
+  background-color: #0d1117;
+  border-radius: 15px;
+  border: 1px solid #30363d;
+}
+
+#footer {
+  max-width: 1200px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.9rem;
+}
